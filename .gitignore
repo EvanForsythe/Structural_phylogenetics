@@ -1,0 +1,10 @@
+
+#All folders
+*/
+
+#All job output files
+*.out
+*.err
+
+
+
